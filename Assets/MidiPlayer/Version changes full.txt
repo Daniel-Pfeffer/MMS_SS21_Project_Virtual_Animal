@@ -1,0 +1,2 @@
+*** content move to resources folder ***
+you can delete this file (update process can't delete or move file)
